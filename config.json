@@ -86,7 +86,7 @@
       "name": "小猫咪资源"
     },
     "danaizi": {
-      "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
+      "api": "https://apidanaizi.com/api.php/provide/vod",
       "name": "大奶子资源"
     }
   }
