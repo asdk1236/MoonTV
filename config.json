@@ -188,6 +188,14 @@
     "fanhao": {
       "api": "http://fhapi9.com/api.php/provide/vod",
       "name": "番号资源"
+    }，
+    "vbskycn": {
+      "api": "https://live.zbds.top/tv/iptv4.m3u",
+      "name": "vbskycn-iptv资源"
+    }，
+    "fantaiying": {
+      "api": "http://www.饭太硬.com/tv",
+      "name": "fantaiying-iptv资源"
     }
   }
 }
